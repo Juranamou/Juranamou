@@ -8,4 +8,4 @@
 
 ### Connect
 
-[test](https://www.linkedin.com/in/john-economou/)
+[linkedin](https://www.linkedin.com/in/john-economou/)
