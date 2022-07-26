@@ -13,3 +13,5 @@
 - 🐧 Speedy Penguin Store http://54.197.67.176/
 
 ![test](https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611094ef9616de8a13d6292056570060ad01efb32e0&rid=giphy.gif)
+
+<img align="right" width="100" height="100" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611094ef9616de8a13d6292056570060ad01efb32e0&rid=giphy.gif">
