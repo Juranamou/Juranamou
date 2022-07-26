@@ -6,6 +6,6 @@
 - ⚡ I like to code and rock climb
 - 🌎 Feel free to say hello
 
-### Connect
+### Connect 🔗
 
-[linkedin](https://www.linkedin.com/in/john-economou/)
+[linkedin ](https://www.linkedin.com/in/john-economou/)
