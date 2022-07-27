@@ -1,8 +1,8 @@
-### Hello there! 👋
+## Hello there! 👋
 
 ## About Me
 
-- 😄 My pronouns are he/him
+- 😄 Hello I am a full stack engineer
 - ⚡ I like to code and rock climb
 - 🌎 Feel free to say hello
 
