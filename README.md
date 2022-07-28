@@ -4,7 +4,7 @@
 ### About Me 💁🏻‍♂️
 
 - 🤠 I'm a full-stack developer
-- 🌱 I'm currently learning JavaScript
+- 🌱 I love learning new tech 
 - 🧗 I like to rock climb!
 
 ### Connect 🔗
