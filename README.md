@@ -5,7 +5,7 @@
 
 - 🤠 I'm a full-stack developer
 - 🌱 I love learning new tech 
-- 🧗 I like to rock climb!
+- 🧗 Talk to me about code, rock climbing, or dog training!
 
 ### Connect 🔗
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="40" height="40">](https://www.linkedin.com/in/john-economou/)
