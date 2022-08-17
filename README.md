@@ -11,7 +11,6 @@
 [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" width="40" height="40">](https://www.linkedin.com/in/john-economou/)
 
 ### Projects
-- 🐧 Speedy Penguin Store http://54.197.67.176/
 - Silent Spy http://44.202.246.210/
 
 <h3 align="left">Languages and Tools:</h3>
