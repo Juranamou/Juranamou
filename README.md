@@ -4,7 +4,7 @@
 ### About Me 💁🏻‍♂️
 
 - 🤠 I'm a full-stack developer
-- 🌱 I love learning new tech 
+- 🌱 I love learning new tech, currently playing with a Go, pgx, psql setup
 - 🧗 Talk to me about code, rock climbing, or dog training!
 
 ### Connect 🔗
