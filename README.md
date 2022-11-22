@@ -3,8 +3,8 @@
 
 ### About Me 💁🏻‍♂️
 
-- 🤠 I'm a full-stack develope
-- 🌱 I love learning new tech, currently playing with C#
+- 🤠 I'm a full-stack developer
+- 🌱 I love learning new tech
 - 🧗 Talk to me about code, rock climbing, or dog training!
 
 ### Connect 🔗
